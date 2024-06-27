@@ -1,0 +1,15 @@
+[Project]
+FileName=C:\Users\adavidoaiei\Desktop\Learning-Pascal-Dev-Pascal-\Learning Pascal.dp
+Name=Learning Pascal
+MainUnit=C:\Users\adavidoaiei\Desktop\Learning-Pascal-Dev-Pascal-\learning_pascal.pas
+UnitCount=1
+ResFiles=C:\Users\adavidoaiei\Desktop\Learning-Pascal-Dev-Pascal-\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Users\adavidoaiei\Desktop\Learning-Pascal-Dev-Pascal-\Icon1.ico
+CompilerOptions=
+IncludeDirs=
+ObjFile=
+[Unit1]
+FileName=C:\Users\adavidoaiei\Desktop\Learning-Pascal-Dev-Pascal-\learning_pascal.pas
+FileTime=1490779117
